@@ -7,13 +7,13 @@ var transporter = nodemailer.createTransport({
     requireTLS: true,
     auth:{
         user: 'amitkumar171117@gmail.com',
-        pass: 'ccosodzuacsqdymd'
+        pass: 'xbhmjnlohdyowjpp'
     }
 });
 
 var mailoption = {
     form: 'amitkumar171117@gmail.com',
-    to:  ['ghi@hotmail.com', 'def@yahoo.com', 'ghi@gmail.com', 'abc@channelier.com', 'abc@hotmail.com', 'def@hotmail.com', 'abc@gmail.com', 'abc@yahoo.com', 'def@channelier.com','jkl@hotmail.com', 'ghi@yahoo.com', 'def@gmail.com'],
+    to:  'tejim47660@jernang.com',
     subject: 'Hello jiiiiiiiii',
     text: 'hahaha'
 };
